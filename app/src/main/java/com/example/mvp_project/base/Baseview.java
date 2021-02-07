@@ -7,4 +7,6 @@ public interface Baseview {
     void showProgressBar(boolean isShowProgressBar);
     void showError(String error);
     Context context();
+
 }
+
